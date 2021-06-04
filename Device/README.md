@@ -39,5 +39,7 @@
 
 ## Program Stacks
 * Raspberry Pi 4
-* python
-* bash
+* Python
+* Flask
+* Wiring Pi
+* Bash
